@@ -56,7 +56,7 @@ sales@abhiyantrikitech.com
 
 ## Acknowledgments
 
-Credits and acknowledgments for any resources, libraries, or inspiration used in the project.
+Bootstrap 5 and JQuery
 
 ## Author
 
