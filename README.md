@@ -60,7 +60,8 @@ Bootstrap 5 and JQuery
 
 ## Author
 
-Sachin
+Sachin pandey
+
 Another github: https://github.com/sachin12031999
 
 ## Contributing
